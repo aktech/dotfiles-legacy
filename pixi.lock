@@ -218,7 +218,7 @@ packages:
 - pypi: ./
   name: dotfiles
   version: 0.1.0
-  sha256: b00281b2a0b91b52dc1f66b8bc04c972d400d9bbdb9f99379db2e5b6975f959e
+  sha256: 41eb968539dc21a94a89fff3200e829e4167b9f8579aad8994ae5bacbb3eb479
   requires_python: '>=3.11'
   editable: true
 - conda: https://conda.anaconda.org/conda-forge/linux-64/icu-78.3-h33c6efd_0.conda
